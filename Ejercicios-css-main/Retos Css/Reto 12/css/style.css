@@ -1,0 +1,21 @@
+.tabla{
+    border: solid rgb(109, 183, 243) 3px;
+    border-spacing: 0px;
+}
+
+td{
+    border: solid rgb(109, 183, 243) 1.5px;
+    background-color: rgba(190, 238, 171, 0.589);
+    
+}
+
+th{
+    border: solid rgb(109, 183, 243) 1.5px;
+    background-color: rgb(32, 68, 38);
+    color: rgb(190, 238, 171);
+    text-align: center;
+}
+
+.oscuro{
+    background-color: rgb(146, 180, 133);
+}

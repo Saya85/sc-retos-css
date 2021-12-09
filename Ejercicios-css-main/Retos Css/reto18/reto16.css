@@ -1,0 +1,15 @@
+.table{
+    background-image: url(../descarga.jpg);
+    position: absolute;
+}
+.titulo{
+    background-color: green;
+    color: red;
+}
+.sub{
+    background: orange;
+    color: red ;
+}
+.sub2{
+    color: red;
+}

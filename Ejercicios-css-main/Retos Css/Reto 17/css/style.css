@@ -1,0 +1,142 @@
+.cuerpo{
+    background-image: url(../img/ac.jpg);
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fotoa{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/back_mantel.jpg);
+    
+}
+
+.fotob{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;    
+    background-image: url(../img/back_mantel.jpg);
+    background-clip: content-box;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.fotoc{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.fotod{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+    background-color: white;
+}
+
+.fotoe{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/dh.jpg);
+    background-position: center;
+    background-size: 100%
+}
+
+.fotof{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/dh.jpg);
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.fotog{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/dh_2.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.fotoh{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background-image: url(../img/dh_3.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.fotoi{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background: linear-gradient(to right, rgb(178, 241, 94), rgb(58, 68, 51));
+}
+
+.fotoj{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background: linear-gradient(to top, rgb(245, 194, 128), rgb(196, 67, 8) 20%, rgb(235, 190, 139));
+}
+
+.fotok{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background: linear-gradient(to top, rgb(4, 87, 4), rgb(166, 221, 169));
+}
+
+.fotol{
+    border: solid 1px black;
+    margin: 50px 100px;
+    height:200px;
+    width: 200px;
+    text-align: center;
+    background: linear-gradient(to top, rgb(4, 87, 4), transparent);
+    
+}
+

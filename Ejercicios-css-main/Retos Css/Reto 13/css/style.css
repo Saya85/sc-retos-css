@@ -1,0 +1,34 @@
+.titulo{
+    text-align: center;
+}
+
+.tabla{
+    border: solid rgb(109, 183, 243) 3px;
+    border-spacing: 0px;
+    width: 100%;
+    font-size: 25px;
+}
+
+th{
+    border: solid rgb(109, 183, 243) 2px;
+    text-align: center;
+}
+
+.celda1{
+    background-color: rgb(190, 238, 171);
+}
+
+.celda2{
+    background-color: aquamarine;
+    text-align: left;
+}
+
+.celda6{
+    background-color: rgba(221, 137, 221, 0.87);
+    vertical-align: bottom;
+    text-align: end;
+}
+
+.celdaR{
+    color: red;
+}
